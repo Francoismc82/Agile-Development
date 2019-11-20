@@ -1,0 +1,24 @@
+Reread “Agile Manifesto”. Can you think of a situation in which one or more of the four
+“values” could get a software team into trouble?
+
+We are uncovering better ways of developing software by doing it and helping others do it.
+Through this work we have come to value:
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+That is, while there is value in the items on the right , we value the items on the left more.
+
+	When they refer to "Customer collaboration" instead of "contract negotiation", then this opens a window for miscommunication. this could lead to a delay in developing time or even arguments between the client and the development team.
+	
+	
+
+● Describe agility in your own words.
+	To me, it would be processing information given by someone in a fast and tharough manour. It is understanding someone and reacting in the best possible way, meaning that you can adjust your way of thought in order to invision the person's perspective.
+
+● Why do you think requirements change so much?
+	Because life changes all the time. People have diffent phases they go through and therefore requirements will also change. Our requirements change as per our cicumstances.
+
+● Explain why test-first development helps the programmer to develop a better
+understanding of the system requirements.
+	The "test-first" way of doing things gives the programmer an idea with regards to what the client will want. This way of doing the programming will have all the possible requirements included in the "test" code and therefore the programmer will always know what to include in the "Set up" and "writing" side of the program.
